@@ -14,7 +14,7 @@
 
 ## Installation
 * make 
-* python3 setup.py build_ext --inplace; python3 main.py -i
+* python3 setup.py build_ext --inplace
 
 ## Code
 ### Iris and Face Detection
